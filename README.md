@@ -1,3 +1,3 @@
 # flappy-block
 
-A game made by phaser inspired by flappy bird.
+A game made using phaser inspired by flappy bird.
